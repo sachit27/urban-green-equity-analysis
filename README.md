@@ -1,4 +1,4 @@
-# Not Your Mean Green: Urban Green Equity Analysis for Bogotá & Medellín
+# Urban Green Equity Analysis for Bogotá & Medellín
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 

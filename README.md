@@ -5,7 +5,7 @@
 Reproducible code for the paper:  
 **Martinez, J., Argota Sánchez-Vaquerizo, J., & Mahajan, S. (2026).**  
 *Not Your Mean Green: Beyond Averages in Mapping Socio-Spatial Inequities in Urban Greenery for Smart Cities.*  
-*EPJ Data Science (Revison).*
+*EPJ Data Science.*
 
 ---
 
